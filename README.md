@@ -164,11 +164,3 @@ graph TD;
 
 ## 📬 Support & Feedback
 - For issues, feature requests, or contributions, open a GitHub issue or contact the author via [rakmyat.com](https://rakmyat.com/).
-
----
-
-## 📷 Screenshots (Add Yours!)
-- `assets/screenshots/frontend-table.png` – Pricing table on product page
-- `assets/screenshots/admin-offers.png` – Admin offer table
-
-> _Tip: To add screenshots, create an `assets/screenshots/` folder and upload your images. Then update the image links above._
